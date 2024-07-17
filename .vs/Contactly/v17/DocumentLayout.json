@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\contactly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\contactly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|c:\\users\\user\\desktop\\side-project\\angular-fullstack\\contactly\\contactly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D84FD3E8-40F8-4878-80FC-FAC765E9D61F}|Contactly\\Contactly.csproj|solutionrelative:contactly\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contactly",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Contactly.csproj",
+              "RelativeDocumentMoniker": "Contactly\\Contactly.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Contactly.csproj",
+              "RelativeToolTip": "Contactly\\Contactly.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T07:15:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Contactly\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Contactly\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:14:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Contactly\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "Contactly\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:16:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Program.cs",
+              "RelativeDocumentMoniker": "Contactly\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Program.cs",
+              "RelativeToolTip": "Contactly\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:22:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Contactly\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Contactly\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:24:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactlyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs",
+              "RelativeDocumentMoniker": "Contactly\\Data\\ContactlyDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Data\\ContactlyDbContext.cs",
+              "RelativeToolTip": "Contactly\\Data\\ContactlyDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:19:09.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddContactRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Models\\AddContactRequestDto.cs",
+              "RelativeDocumentMoniker": "Contactly\\Models\\AddContactRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Models\\AddContactRequestDto.cs",
+              "RelativeToolTip": "Contactly\\Models\\AddContactRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:30:44.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Contactly\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\side-project\\Angular-fullstack\\Contactly\\Contactly\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Contactly\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T07:14:16.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
